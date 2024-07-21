@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="domain-info">
+      <span>Current Domain: <span id="currentDomain">Loading...</span></span>
+    </div>
+    <div class="controls">
+      <button id="addAccount" class="glow-on-hover">Add Account</button>
+      <button id="exportAccounts" class="glow-on-hover">Export Accounts</button>
+      <button id="importAccountsBtn" class="glow-on-hover">Import Accounts</button>
+      <button id="clearData" class="glow-on-hover">Clear All Data</button>
+      <input type="file" id="importAccounts" style="display: none;" />
+    </div>
+    <div id="accountsList" class="accounts-list"></div>
+    <div class="footer">
+      <span>Developed by <span id="developer">SkyLandYT2</span></span>
+      <div id="developer-links" class="developer-links">
+        <button id="githubLink" class="footer-btn">GitHub</button>
+        <button id="donateLink" class="footer-btn">Donate</button>
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
