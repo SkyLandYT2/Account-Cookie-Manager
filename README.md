@@ -78,10 +78,6 @@ Cookie Manager Extension — это расширение для браузера
 
 Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/BreadcrumbsAccount-Cookie-Manager/issues) в репозитории GitHub.
 
-### Лицензия
-
-Проект лицензирован под [MIT лицензией](LICENSE).
-
 
 ## English
 
