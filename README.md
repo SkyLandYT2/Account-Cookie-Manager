@@ -72,7 +72,7 @@ Cookie Manager Extension — это расширение для браузера
 
 8. **Разработчики**
 
-   Ссылка на разработчиков находится на [GitHub странице](https://github.com/SkyLandYT2). Вы также можете [пожертвовать](https://www.donationalerts.com/c/skylandyt), чтобы поддержать разработчика.
+   Ссылка на разработчиков находится на [GitHub странице](https://github.com/SkyLandYT2). Вы также можете [задонатить](https://www.donationalerts.com/c/skylandyt), чтобы поддержать разработчика.
 
 ### Проблемы и предложения
 
@@ -83,7 +83,7 @@ Cookie Manager Extension — это расширение для браузера
 Проект лицензирован под [MIT лицензией](LICENSE).
 
 
-## english
+## English
 
 ### Description
 
