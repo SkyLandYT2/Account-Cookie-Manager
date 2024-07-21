@@ -36,7 +36,7 @@ Cookie Manager Extension — это расширение для браузера
      3. Нажмите "Загрузить временное дополнение" (Load Temporary Add-on) и выберите файл `manifest.json` в директории проекта.
 
    - **Yandex Browser**:
-     1. Откройте [browser://extensions](browser://extensions/) в браузере.
+     1. Откройте [browser://extensions](browser://extensions) в браузере.
      2. Включите режим разработчика (Developer mode) в верхнем правом углу.
      3. Нажмите "Загрузить распакованное расширение" (Load unpacked) и выберите директорию проекта.
 
@@ -76,7 +76,7 @@ Cookie Manager Extension — это расширение для браузера
 
 ### Проблемы и предложения
 
-Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/BreadcrumbsAccount-Cookie-Manager/issues) в репозитории GitHub.
+Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/Account-Cookie-Manager/issues) в репозитории GitHub.
 
 
 ## English
@@ -112,7 +112,7 @@ Cookie Manager Extension is a browser extension that allows you to manage cookie
      3. Click "Load Temporary Add-on" and select the `manifest.json` file from the project directory.
 
    - **Yandex Browser**:
-     1. Open [browser://extensions](browser://extensions/) in your browser.
+     1. Open [browser://extensions](browser://extensions) in your browser.
      2. Enable Developer mode by toggling the switch in the top right corner.
      3. Click "Load unpacked" and select the project directory.
 
@@ -152,5 +152,5 @@ Cookie Manager Extension is a browser extension that allows you to manage cookie
 
 ### Issues and Suggestions
 
-If you have suggestions for improving the extension or have found a bug, please create an [issue](https://github.com/SkyLandYT2/BreadcrumbsAccount-Cookie-Manager/issues) on the GitHub repository.
+If you have suggestions for improving the extension or have found a bug, please create an [issue](https://github.com/SkyLandYT2/Account-Cookie-Manager/issues) on the GitHub repository.
 
