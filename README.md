@@ -1,5 +1,5 @@
 
-# Cookie Manager Extension
+# Account Cookie Manager
 
 ## Languages: [Русский](#русский), [English](#english)
 
