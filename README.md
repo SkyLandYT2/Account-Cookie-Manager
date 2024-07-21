@@ -76,7 +76,7 @@ Cookie Manager Extension — это расширение для браузера
 
 ### Проблемы и предложения
 
-Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/cookie-manager-extension/issues) в репозитории GitHub.
+Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/BreadcrumbsAccount-Cookie-Manager/issues) в репозитории GitHub.
 
 ### Лицензия
 
@@ -156,5 +156,5 @@ Cookie Manager Extension is a browser extension that allows you to manage cookie
 
 ### Issues and Suggestions
 
-If you have suggestions for improving the extension or have found a bug, please create an [issue](https://github.com/SkyLandYT2/cookie-manager-extension/issues) on the GitHub repository.
+If you have suggestions for improving the extension or have found a bug, please create an [issue](https://github.com/SkyLandYT2/BreadcrumbsAccount-Cookie-Manager/issues) on the GitHub repository.
 
