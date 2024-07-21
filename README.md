@@ -1,27 +1,106 @@
-## Languages: [Русский](русский), [English](english)
 
-
-Here's an updated and translated `README.md` for your project, ensuring all instructions and information are accurate:
-
-```markdown
 # Cookie Manager Extension
 
-## Description
+## Languages: [Русский](#русский), [English](#english)
+
+## Русский
+
+### Описание
+
+Cookie Manager Extension — это расширение для браузера, которое позволяет вам управлять cookie-файлами для различных аккаунтов на веб-сайтах. Вы можете добавлять, переключаться между аккаунтами, переименовывать и удалять их. Также доступна возможность экспорта и импорта аккаунтов.
+
+### Установка
+
+1. **Клонируйте репозиторий**
+
+   ```bash
+   git clone https://github.com/SkyLandYT2/Account-Cookie-Manager.git
+   ```
+
+2. **Перейдите в директорию проекта**
+
+   ```bash
+   cd BreadcrumbsAccount-Cookie-Manager
+   ```
+
+3. **Установите расширение в браузере**
+
+   - **Google Chrome**:
+     1. Откройте [chrome://extensions](chrome://extensions) в браузере.
+     2. Включите режим разработчика (Developer mode) в верхнем правом углу.
+     3. Нажмите кнопку "Загрузить распакованное расширение" (Load unpacked) и выберите директорию проекта.
+
+   - **Mozilla Firefox**:
+     1. Откройте [about:debugging](about:debugging) в браузере.
+     2. Нажмите на "Этот Firefox" (This Firefox) или "Этот Nightly" (This Nightly), в зависимости от вашей версии Firefox.
+     3. Нажмите "Загрузить временное дополнение" (Load Temporary Add-on) и выберите файл `manifest.json` в директории проекта.
+
+   - **Yandex Browser**:
+     1. Откройте [browser://extensions](browser://extensions/) в браузере.
+     2. Включите режим разработчика (Developer mode) в верхнем правом углу.
+     3. Нажмите "Загрузить распакованное расширение" (Load unpacked) и выберите директорию проекта.
+
+### Использование
+
+1. **Добавление аккаунта**
+
+   Нажмите кнопку "Add Account" (Добавить аккаунт). Введите имя аккаунта, и расширение сохранит все текущие cookies для домена под этим именем.
+
+2. **Переключение аккаунта**
+
+   Перейдите на вкладку "Accounts" (Аккаунты), выберите нужный аккаунт и нажмите кнопку "Switch" (Переключить). Расширение удалит все текущие cookies для домена и установит cookies из выбранного аккаунта.
+
+3. **Переименование аккаунта**
+
+   Нажмите кнопку "Rename" (Переименовать) рядом с аккаунтом, введите новое имя и подтвердите изменения.
+
+4. **Удаление аккаунта**
+
+   Нажмите кнопку "Delete" (Удалить) рядом с аккаунтом и подтвердите удаление.
+
+5. **Экспорт аккаунтов**
+
+   Нажмите кнопку "Export Accounts" (Экспортировать аккаунты). Расширение создаст файл `accounts.json`, содержащий все ваши аккаунты и cookies.
+
+6. **Импорт аккаунтов**
+
+   Нажмите кнопку "Import Accounts" (Импортировать аккаунты). Выберите файл `accounts.json`, созданный ранее. Расширение загрузит и сохранит данные из файла.
+
+7. **Очистка всех данных**
+
+   Нажмите кнопку "Clear Data" (Очистить данные) для удаления всех сохраненных аккаунтов и cookies.
+
+8. **Разработчики**
+
+   Ссылка на разработчиков находится на [GitHub странице](https://github.com/SkyLandYT2). Вы также можете [пожертвовать](https://www.donationalerts.com/c/skylandyt), чтобы поддержать разработчика.
+
+### Проблемы и предложения
+
+Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/cookie-manager-extension/issues) в репозитории GitHub.
+
+### Лицензия
+
+Проект лицензирован под [MIT лицензией](LICENSE).
+
+
+## english
+
+### Description
 
 Cookie Manager Extension is a browser extension that allows you to manage cookies for different accounts on websites. You can add, switch between, rename, and delete accounts. It also provides options to export and import accounts.
 
-## Installation
+### Installation
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/SkyLandYT2/Steam-Inventory-Viewer.git
+   git clone https://github.com/SkyLandYT2/Account-Cookie-Manager.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd Steam-Inventory-Viewer
+   cd Account-Cookie-Manager
    ```
 
 3. **Install the extension in your browser**
@@ -41,7 +120,7 @@ Cookie Manager Extension is a browser extension that allows you to manage cookie
      2. Enable Developer mode by toggling the switch in the top right corner.
      3. Click "Load unpacked" and select the project directory.
 
-## Usage
+### Usage
 
 1. **Adding an Account**
 
@@ -73,85 +152,9 @@ Cookie Manager Extension is a browser extension that allows you to manage cookie
 
 8. **Developers**
 
-   Link to develoer [GitHub page](https://github.com/SkyLandYT2). You can also [donate](https://www.donationalerts.com/c/skylandyt) to support the developer.
+   Developer link [GitHub page](https://github.com/SkyLandYT2). You can also [donate](https://www.donationalerts.com/c/skylandyt) to support the developer.
 
-## Issues and Suggestions
+### Issues and Suggestions
 
 If you have suggestions for improving the extension or have found a bug, please create an [issue](https://github.com/SkyLandYT2/cookie-manager-extension/issues) on the GitHub repository.
-
-#Русский
-
-```markdown
-# Cookie Manager Extension
-
-## Описание
-
-Cookie Manager Extension — это расширение для браузера, которое позволяет вам управлять cookie-файлами для различных аккаунтов на веб-сайтах. Вы можете добавлять, переключаться между аккаунтами, переименовывать и удалять их. Также доступна возможность экспорта и импорта аккаунтов.
-
-## Установка
-
-1. **Клонируйте репозиторий**
-
-   ```bash
-   git clone https://github.com/SkyLandYT2/Steam-Inventory-Viewer.git
-   ```
-
-2. **Перейдите в директорию проекта**
-
-   ```bash
-   cd Steam-Inventory-Viewer
-   ```
-
-3. **Установите расширение в браузере**
-
- - **Google Chrome**:
-     1. Откройте [chrome://extensions](chrome://extensions) в браузере.
-     2. Включите режим разработчика (Developer mode) в верхнем правом углу.
-     3. Нажмите кнопку "Загрузить распакованное расширение" (Load unpacked) и выберите директорию проекта.
-
-  - **Mozilla Firefox**:
-     1. Откройте [about:debugging](about:debugging) в браузере.
-     2. Нажмите на "Загрузить временное дополнение" (Load Temporary Add-on) и выберите файл `manifest.json` в директории проекта.
-
-   - **Yandex Browser**:
-     1. Откройте [browser://extensions](browser://extensions/) в браузере
-     2. Включите режим разработчика (Developer mode) в верхнем правом углу.
-     3. aНажмите Загрузить распакованное расширение и выберите папку с расширением
-## Использование
-
-1. **Добавление аккаунта**
-
-   Нажмите кнопку "Add Account" (Добавить аккаунт). Введите имя аккаунта, и расширение сохранит все текущие cookies для текущего домена под этим именем.
-
-2. **Переключение аккаунта**
-
-   Перейдите на вкладку "Accounts" (Аккаунты), выберите нужный аккаунт и нажмите кнопку "Switch" (Переключить). Расширение удалит все текущие cookies для домена и установит cookies из выбранного аккаунта.
-
-3. **Переименование аккаунта**
-
-   Нажмите кнопку "Rename" (Переименовать) рядом с аккаунтом, введите новое имя и подтвердите изменения.
-
-4. **Удаление аккаунта**
-
-   Нажмите кнопку "Delete" (Удалить) рядом с аккаунтом и подтвердите удаление.
-
-5. **Экспорт аккаунтов**
-
-   Нажмите кнопку "Export Accounts" (Экспортировать аккаунты). Расширение создаст файл `accounts.json`, содержащий все ваши аккаунты и cookies.
-
-6. **Импорт аккаунтов**
-
-   Нажмите кнопку "Import Accounts" (Импортировать аккаунты). Выберите файл `accounts.json`, созданный ранее. Расширение загрузит и сохранит данные из файла.
-
-7. **Очистка всех данных**
-
-   Нажмите кнопку "Clear Data" (Очистить данные) для удаления всех сохраненных аккаунтов и cookies.
-
-8. **Разработчики**
-
-   Ссылка на разработчки [ссылке на GitHub](https://github.com/SkyLandYT2). Вы также можете [пожертвовать](https://www.donationalerts.com/c/skylandyt), чтобы поддержать разработчика.
-
-## Проблемы и предложения
-
-Если у вас есть предложения по улучшению расширения или вы нашли баг, пожалуйста, создайте [issue](https://github.com/SkyLandYT2/cookie-manager-extension/issues) в репозитории GitHub.
 
